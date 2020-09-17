@@ -1,0 +1,30 @@
+header {
+    margin : 5px;
+    text-align : center;
+}
+
+h1 {
+    margin : 5px;
+    width : 100%;
+    
+}
+
+body {
+    width : 100%;
+}
+
+main {
+    width : 100%;
+
+}
+
+.card {
+    display : inline-block;
+    margin : 4px;
+}
+
+.members {
+    border : 2px red;
+    height: 20%;
+    margin-left : 1rem;
+}
